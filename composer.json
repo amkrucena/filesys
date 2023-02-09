@@ -3,8 +3,8 @@
   "description": "Laravel - Filemanager extension",
   "repositories": [
     {
-      "type": "path",
-      "url": "../crip-core"
+      "type": "vcs",
+      "url": "https://github.com/amkrucena/crip-core.git"
     }
   ],
   "require": {
